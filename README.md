@@ -8,11 +8,8 @@
 
 - [Description](#-description)
 - [Features](#-features)
-- [Project Structure](#-project-structure)
 - [Requirements](#-requirements)
-- [Build and Run](#-build-and-run)
 - [Usage](#-usage)
-- [Example](#-example)
 - [Known Limitations](#-known-limitations)
 - [Possible Improvements](#-possible-improvements)
 - [License](#-license)
@@ -114,11 +111,8 @@ If you have any questions or suggestions, feel free to open an Issue or submit a
 
 - [Описание](#-описание)
 - [Возможности](#-возможности)
-- [Структура проекта](#-структура-проекта)
 - [Требования](#-требования)
-- [Сборка и запуск](#-сборка-и-запуск)
 - [Использование](#-использование)
-- [Пример работы](#-пример-работы)
 - [Известные ограничения](#-известные-ограничения)
 - [Возможные улучшения](#-возможные-улучшения)
 - [Лицензия](#-лицензия)
