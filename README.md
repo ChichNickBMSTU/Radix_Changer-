@@ -51,28 +51,6 @@ The interface is implemented as a console menu that allows entering multiple num
 
 ---
 
-## 🛠️ Build and Run
-
-### Windows (MSVC / MinGW)
-
-```bash
-gcc main.c Functii.c -o BaseConverter.exe
-BaseConverter.exe
-```
-
-### Linux / macOS (after replacing `itoa`)
-
-If you have adapted the code to use `sprintf`:
-
-```bash
-gcc main.c Functii.c -o BaseConverter
-./BaseConverter
-```
-
-To run on Linux/macOS, you will also need to replace `system("cls")` with `system("clear")` and `system("pause")` with `getchar()` or `system("read")`.
-
----
-
 ## 🚀 Usage
 
 1. Launch the program.
